@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-06T17:23:02 IST" name="Default suite" finished-at="2022-05-06T17:23:14 IST" duration-ms="11713">
+    <groups>
+    </groups>
+    <test started-at="2022-05-06T17:23:02 IST" name="Default test" finished-at="2022-05-06T17:23:14 IST" duration-ms="11713">
+      <class name="seleniumAssignments.MouseHover">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:seleniumAssignments.MouseHover@c267ef4]" started-at="2022-05-06T17:23:02 IST" name="setUp" finished-at="2022-05-06T17:23:13 IST" duration-ms="10900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="actions()[pri:0, instance:seleniumAssignments.MouseHover@c267ef4]" started-at="2022-05-06T17:23:13 IST" name="actions" finished-at="2022-05-06T17:23:13 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actions -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:seleniumAssignments.MouseHover@c267ef4]" started-at="2022-05-06T17:23:13 IST" name="afterClass" finished-at="2022-05-06T17:23:14 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- seleniumAssignments.MouseHover -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
